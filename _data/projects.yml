@@ -1,3 +1,33 @@
+- project : # Big Moments
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url : https://github.com/TanZng/big-moments-gcp
+    demo: https://big-moments.tanx.dev/
+    image : "big-moments/bigMomentsBG.png"
+    date : 15 / 09 / 2021 - 30 / 09 / 2021
+    title : Big Moments
+    description : Project 1st place winner for the challenge INSIDE Google Cloud 21
+    summary : This project is made with Flask, TailwindCSS and GCP.
+              This project detects objects in the uploaded images and tags them.
+    contents :
+        - title : 🏗 Infrastructure
+          description : <img src="https://drive.google.com/uc?export=view&id=10QFLSzQ5fnW4rAUARHk0hfKEolE_Zgwq" data-canonical-src="https://drive.google.com/uc?export=view&id=10QFLSzQ5fnW4rAUARHk0hfKEolE_Zgwq" />
+
+# - project : # GOOGLE IT CERTIFICATE
+#     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+#     url :  https://github.com/TanZng/Automating-Real-World-Tasks-with-Python
+#     image : "GoogleIT/google-it-automation-professional-certificate.png"
+#     date : 25 / 04 / 2020 - 02 / 12 / 2020
+#     title : Google IT Automation with Python Professional Certificate
+#     summary : 
+#     description :
+#     contents :
+#         - title : View my work on
+#           description : <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://www.youracclaim.com/badges/0c229249-ab2d-426c-b3b0-c96a4cb5057f/public_url">CClaim</a> </br>
+#                         <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/RNSPVGE2XB58">Coursera</a> </br>
+#                         <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/TanZng/Automating-Real-World-Tasks-with-Python/">GitHub</a>
+
 - project : # BLOG
     print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -29,22 +59,6 @@
                         <li>Add Search</li>
                         <li>Profile image effect</li>
                         <li>Gem distribute</li> 
-
-
-- project : # GOOGLE IT CERTIFICATE
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  https://github.com/TanZng/Automating-Real-World-Tasks-with-Python
-    image : "GoogleIT/google-it-automation-professional-certificate.png"
-    date : 25 / 04 / 2020 - 02 / 12 / 2020
-    title : Google IT Automation with Python Professional Certificate
-    summary : 
-    description :
-    contents :
-        - title : View my work on
-          description : <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://www.youracclaim.com/badges/0c229249-ab2d-426c-b3b0-c96a4cb5057f/public_url">CClaim</a> </br>
-                        <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/RNSPVGE2XB58">Coursera</a> </br>
-                        <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/TanZng/Automating-Real-World-Tasks-with-Python/">GitHub</a>
 
 - project : # GeekMetrik
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 

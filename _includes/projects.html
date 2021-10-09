@@ -28,11 +28,13 @@
             <div class="description">{{ project.description }}</div>
           </div>
           <div class="icons">
+            {% if project.demo %}
+            {% assign demo = project.demo %}
+             <a href="{{ demo }}"><i class="far fa-eye"></i></a>
+            {% endif %}
             {% if project.url %}
             {% assign url = project.url %}
-            <a href="{{ url }}/subscription"><i class="far fa-eye"></i></a>
-            <a href="{{ url }}"><i class="fas fa-star"></i></a>
-            <a href="{{ url }}/fork"><i class="fas fa-code-branch"></i></a>
+            <a href="{{ url }}"><i class="fas fa-code"></i></a>
             {% endif %}
             {% if project.modal %}
             <a title="{{ id }}" onClick="open_modal(this.title)" class="modal-btn"><i class="fas fa-plus"></i></a>

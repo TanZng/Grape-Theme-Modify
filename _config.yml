@@ -14,15 +14,25 @@ theme_settings :
     username : Tania R. Zúñiga
     description : Computer Engineering student at Universidad Autónoma Metropolitana. 
     experience :
-      - start : 24 / 11 / 2020
+      - start : 11 / 01 / 2021
         end : Until now
+        experience : Pipefy Inc, Software Engineering Trainee
+      - start : 11 / 03 / 2021
+        end : Until now
+        experience : GitKraken, Git Ambassador
+      - start : 24 / 11 / 2020
+        end : 30 / 04 / 2020
         experience : UAM, School Monitor
       - start : 04 / 05 / 2020
         end : 13 / 11 / 2020
         experience : UAM, PAEA Facilitator
     skills : 
-      - skill : BS in Computer Engineering
+      - skill : BEng in Computer Engineering
         value : 75 # Percent value
+      # - skill : "<a href=\"https://www.credly.com/badges/0c229249-ab2d-426c-b3b0-c96a4cb5057f\"> Google IT Automation with Python Professional Certificate</a>"
+      #   value : 100 # Percent value
+      # - skill : "<a href=\"https://www.credly.com/badges/85903bdb-df1f-46bc-acbe-354002657efa\"> Microsoft Certified: Azure Fundamentals</a>"
+      #   value : 100 # Percent value
      
         
   # Icons
