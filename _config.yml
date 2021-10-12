@@ -38,7 +38,7 @@ theme_settings :
   # Icons
   icons :
     email: tania@tanx.dev  # Full email address, e.g. "sample@google.com"
-    linkedin: https://www.linkedin.com/in/tania-r-zuniga/ # Full URL 
+    linkedin: https://www.linkedin.com/in/tania-zuniga/ # Full URL 
     github: TanZng
     gitlab: tanx.dev
     bitbucket: 
