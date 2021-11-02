@@ -1,3 +1,11 @@
+> 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨
+> 
+> This repo is for tanx.dev v1 
+>
+> **tanx.dev v2 is now live at https://tanx.dev/**
+> 
+> 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨
+
 # tan(x) blog using Grape-Theme
 
 ![home](./assets/img/home.png)
