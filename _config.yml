@@ -1,6 +1,6 @@
 # Site Settings
-baseurl: ""
-url : "https://tanzng.github.io/tanx-dev-v1/"
+baseurl: "/tanx-dev-v1"
+url : "https://tanzng.github.io"
 
 # Blog Settings
 theme_settings :
