@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url : "https://www.tanx.dev"
+url : "https://tanzng.github.io/tanx-dev-v1/"
 
 # Blog Settings
 theme_settings :
@@ -49,7 +49,7 @@ theme_settings :
     instagram:
 
   # Disqus
-  disqus_shortname : https-tanzng-github-io
+  disqus_shortname : 
 
 # Pagination
 paginate: 5
